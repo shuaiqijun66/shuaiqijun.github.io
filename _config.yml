@@ -1,18 +1,18 @@
 # Site settings
 title: Shuai qi jun
-SEOTitle: 帅旗军_星系启明星
+SEOTitle: 帅旗军
 header-img: img/post-bg-desk.jpg
 email: 42687880@qq.com
 description: "Every failure is leading towards success."
-keyword: "帅旗军的博客, shuaiqijun, 帅旗军, 黄梅人, 黄梅IT民工, 游走在众星系间的启明星"
+keyword: "帅旗军的博客, shuaiqijun, 帅旗军, 黄梅人, IT民工"
 url: "http://shuaiqijun.com"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/shuaiqijun/shuaiqijun.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "☆游走在众星系之间的启明星☆"
-sidebar-avatar: /img/about-BY-gentle.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "☆热爱自己，热爱生活☆"
+sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -94,14 +94,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Rsson·中立信",
-        href: "http://rsson.cn"
-    },{
         title: "简书·Shuaiqijun",
         href: "http://www.jianshu.com/u/5a774d26cb86"
-    },{
-        title: "黄梅门户网",
-        href: "http://www.hm0713.cn"
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
